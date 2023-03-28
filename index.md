@@ -3,7 +3,6 @@
 ## 보존된 아이돌 갤러리 목록
 * [sae](idols/sae)
 * [honoka](idols/honoka)
-* [chiaki](idols/chiaki)
 * [chie](idols/chie)
 * [yuzu](idols/yuzu)
 * [ayame](idols/ayame)
